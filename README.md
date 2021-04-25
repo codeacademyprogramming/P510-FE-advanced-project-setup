@@ -19,13 +19,3 @@ https://docs.npmjs.com/about-npm
 
 ## How to specify versions of a package?
 * https://docs.npmjs.com/cli/v7/configuring-npm/package-json#dependencies
-
-## Javascript MUST READ
-* https://javascript.info/hello-world
-* https://javascript.info/variables
-* https://javascript.info/types
-* https://javascript.info/operators
-* https://javascript.info/comparison
-* https://javascript.info/ifelse
-* https://javascript.info/logical-operators
-* https://javascript.info/switch
