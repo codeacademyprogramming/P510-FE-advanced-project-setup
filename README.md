@@ -1,4 +1,4 @@
-# P510-FE-CSS-SCSS-Advanced
+# P510-FE-advanced-project-setup
 
 ## Where to download and read docs of node.js
 * https://nodejs.org/en/
