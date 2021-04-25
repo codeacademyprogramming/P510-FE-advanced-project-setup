@@ -1,0 +1,14 @@
+// variables scss import
+@import './variables';
+
+// mixins scss imports
+@import './mixins/flexbox';
+@import './mixins/centerize';
+
+
+// common scss imports
+
+
+// page scss imports
+@import './pages/about';
+@import './pages/home';
